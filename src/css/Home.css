@@ -1,0 +1,26 @@
+/* .wrapper
+{
+    overflow-x: hidden;
+    overflow-y: auto;
+
+}
+.navbox
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+    border-bottom: 1px solid white;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    padding: 7px 25px;
+}
+.navbox.leftside
+{
+    width: 80px;
+    height: 80px;
+}
+.navbox.navbox.leftside img{
+    width: 100%;
+    height: 100%;
+} */
